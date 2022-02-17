@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.11.2",
+  "appInfo": {
+    "name": "Sightings",
+    "description": "",
+    "version": "i9qdun6k",
+    "id": "ckzqre7c761271901s6rfpjwkva",
+    "url": "https://app.amplication.com/ckzqre7c761271901s6rfpjwkva",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "sightings",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "ckzqre7c761271901s6rfpjwkva",
+      "authProvider": "Jwt"
+    }
+  }
+}
